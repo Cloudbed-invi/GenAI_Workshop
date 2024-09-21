@@ -55,11 +55,7 @@ The final session involved working with **Google AI Studio API** to:
     cd genai-workshop
     ```
 
-2. Install the required dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
+2. You can use Google Colab to execute the above notebooks
 
 3. Explore the `notebooks` directory for Jupyter notebooks with code examples from the workshop.
 
@@ -79,4 +75,5 @@ For any inquiries, reach out to the event organizers at:
 
 - **Email:** 99220040901@klu.ac.in
 - **GDG Community Page:** [GDG INVENTIA](https://gdg.inventia.com)
-
+- **GDG Community Chennai Lead:** N Hema Priya  
+- Linkedin : N Hemapriya
